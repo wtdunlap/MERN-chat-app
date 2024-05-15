@@ -1,0 +1,15 @@
+{
+  "name": "mern-game-search",
+  "version": "1.0.0",
+  "description": "Video game search engine",
+  "main": "server.js",
+  "scripts": {
+    "install": "npm install concurrently ",
+    "start": ""
+  },
+  "author": "Wesley Dunlap",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
