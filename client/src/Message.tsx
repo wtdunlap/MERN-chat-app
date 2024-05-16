@@ -1,5 +1,0 @@
-function Message() {
-    return(
-        
-    );
-}
