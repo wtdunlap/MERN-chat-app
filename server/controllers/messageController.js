@@ -1,5 +1,5 @@
-import Convo from "../models/Convo.js";
-import Message from "../models/Message.js";
+import Convo from "../models/convo.js";
+import Message from "../models/message.js";
 
 export const sendMessage = async (req, res) => {
     try {
